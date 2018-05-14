@@ -1,0 +1,65 @@
+3d_printing:3D Printing
+advanced_framework:Advanced Framework Design
+asm:Assembly
+ar_vr:Augmented Reality
+atb:Associative Topology Bus
+autobuildz:AutobuildZ
+autocrear:Clearance and Creepage Extension
+bemod:Behavioral Modeling
+cable:Cabling
+cfd:Creo Flow Analysis
+cmm:Coordinate Measuring Machines (CMM)
+collaboration:Collaboration Tools
+creo_direct:Creo Direct
+creo_unite:Creo Unite
+datamanagement:Data Management
+design_exploration:Design Exploration
+des_anim:Design Animation
+detail:Detailed Drawings
+diagram:Diagram
+ecad:ECAD
+expmach:Expert Machinist
+facmodel:Facet Modeling
+feature_recognition_tool:Feature Recognition Tool
+flexible_modeling:Flexible Modeling
+freestyle:Freestyle
+fundamentals:Fundamentals
+feature:Part Modeling
+gdnt:Model-Based Definition
+harness:Harness
+harness_mfg_extn:Creo Harness Manufacturing Extension
+impdatadoc:Import DataDoctor
+intelligent_fastener:Creo Intelligent Fastener Extension
+interface:Interface
+instrumented_assemblies:Creo Product Insight
+langsupport:Language Suppport
+layout:Creo Layout
+legacy:Legacy
+legacy_migration:Legacy Migration
+manikin:Manikin
+mech_des:Mechanism Design and Mechanism Dynamics
+modelcheck:ModelCHECK
+mold:Mold Design and Casting
+mold_analysis:Creo Mold Analysis (CMA)
+nc:NC
+ncsheet:NC Sheetmetal
+nonspecpiping:Non Spec-Driven Piping
+option_modeler:Creo Options Modeler
+photo:Creo Render Studio
+processassembly:Assembly Process Planning
+processmfg:Manufacturing Process Planning
+program:Program
+restyle:Reverse Engineering (Restyle)
+scantools:Scan Tools
+sheetmetaldesign:Sheetmetal Design
+simulate:Creo Simulate
+sketcher:Sketcher
+specpiping:Spec-Driven Piping
+style:Interactive Surface Design (Style)
+surface:Technical Surfacing
+tolerance_analysis:Tolerance Analysis
+topology_optimization:Topology Optimization
+tutorials:Tutorials
+verify:Manufacturing Verification
+warp:Warp
+welding:Welding

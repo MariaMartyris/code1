@@ -1,0 +1,11 @@
+﻿en: Select a Help topic to open.
+de: Wählen Sie das Hilfe-Thema aus, das geöffnet werden soll.
+fr: Sélectionnez la rubrique d'aide que vous souhaitez ouvrir.
+it: Selezionate l'argomento della guida da aprire.
+es: Seleccione el tema de ayuda que desee abrir.
+ja: 開くヘルプトピックを選択します。
+ko: 열려는 도움말 항목을 선택하십시오.
+cn: 选择要打开的帮助主题。
+tw: 選取要開啟的說明主題。
+ru: Выберите раздел справки, чтобы открыть.
+br-pt: Selecione um tópico de ajuda para abrir.
